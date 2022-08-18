@@ -1,0 +1,6 @@
+opencv-contrib-python
+pandas
+torch
+torchvision
+Pillow
+numpy
