@@ -4,3 +4,9 @@ torch
 torchvision
 Pillow
 numpy
+tensorflow
+keras
+matplotlib
+ktrain
+scikit-learn
+scikit-image
